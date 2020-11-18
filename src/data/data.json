@@ -5,70 +5,130 @@
       "Year": "2009",
       "imdbID": "tt1022603",
       "Type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MjM4OTU1OV5BMl5BanBnXkFtZTcwODkzNDIzMw@@._V1_SX300.jpg"
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MjM4OTU1OV5BMl5BanBnXkFtZTcwODkzNDIzMw@@._V1_SX300.jpg",
+      "Runtime": "95 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Marc Webb",
+      "Writer": "Scott Neustadter, Michael H. Weber",
+      "Actors": "Joseph Gordon-Levitt, Zooey Deschanel, Geoffrey Arend, Chloë Grace Moretz",
+      "Plot": "An offbeat romantic comedy about a woman who doesn't believe true love exists, and the young man who falls for her."
     },
     {
       "Title": "I Know What You Did Last Summer",
       "Year": "1997",
       "imdbID": "tt0119345",
       "Type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDI4ODJlNGUtNjFiMy00ODgzLWIzYjgtMzgyZTljZDQ2NGZiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDI4ODJlNGUtNjFiMy00ODgzLWIzYjgtMzgyZTljZDQ2NGZiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Runtime": "101 min",
+      "Genre": "Horror, Mystery",
+      "Director": "Jim Gillespie",
+      "Writer": "Lois Duncan (novel), Kevin Williamson (screenplay)",
+      "Actors": "Jennifer Love Hewitt, Sarah Michelle Gellar, Ryan Phillippe, Freddie Prinze Jr.",
+      "Plot": "Four young friends bound by a tragic accident are reunited when they find themselves being stalked by a hook-wielding maniac in their small seaside town."
     },
     {
       "Title": "The Kings of Summer",
       "Year": "2013",
       "imdbID": "tt2179116",
       "Type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODA1NTI0MV5BMl5BanBnXkFtZTcwOTE4OTUzOQ@@._V1_SX300.jpg"
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODA1NTI0MV5BMl5BanBnXkFtZTcwOTE4OTUzOQ@@._V1_SX300.jpg",
+      "Runtime": "95 min",
+      "Genre": "Adventure, Comedy, Drama",
+      "Director": "Jordan Vogt-Roberts",
+      "Writer": "Chris Galletta",
+      "Actors": "Nick Robinson, Gabriel Basso, Moises Arias, Nick Offerman",
+      "Plot": "Three teenage friends, in the ultimate act of independence, decide to spend their summer building a house in the woods and living off the land."
     },
     {
       "Title": "Spring, Summer, Fall, Winter... and Spring",
       "Year": "2003",
       "imdbID": "tt0374546",
       "Type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZGYxOTRlM2MtNWRjZS00NDk2LWExM2EtMDFiYTgyMGJkZGYyXkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_SX300.jpg"
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGYxOTRlM2MtNWRjZS00NDk2LWExM2EtMDFiYTgyMGJkZGYyXkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_SX300.jpg",
+      "Runtime": "103 min",
+      "Genre": "Drama, Romance",
+      "Director": "Ki-duk Kim",
+      "Writer": "Ki-duk Kim",
+      "Actors": "Yeong-su Oh, Ki-duk Kim, Young-min Kim, Jae-kyeong Seo",
+      "Plot": "A boy is raised by a Buddhist monk in an isolated floating temple where the years pass like the seasons."
     },
     {
       "Title": "I Still Know What You Did Last Summer",
       "Year": "1998",
       "imdbID": "tt0130018",
       "Type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgwZmFkZmQtZTVjNC00ZTU4LWI4NjItYzdhYTg1ZjkyODZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgwZmFkZmQtZTVjNC00ZTU4LWI4NjItYzdhYTg1ZjkyODZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Runtime": "100 min",
+      "Genre": "Horror, Mystery",
+      "Director": "Danny Cannon",
+      "Writer": "Lois Duncan (characters), Trey Callaway",
+      "Actors": "Jennifer Love Hewitt, Freddie Prinze Jr., Brandy Norwood, Mekhi Phifer",
+      "Plot": "The murderous fisherman with a hook is back to once again stalk the two surviving teens, Julie and Ray, who had left him for dead, as well as cause even more murder and mayhem, this time at a posh island resort."
     },
     {
       "Title": "Last of the Summer Wine",
       "Year": "1973–2010",
       "imdbID": "tt0069602",
       "Type": "series",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzdlMzc0ZDUtMDI0OS00NDk4LWE4YjQtYjk1YzRmZjFjMDAzXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg"
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzdlMzc0ZDUtMDI0OS00NDk4LWE4YjQtYjk1YzRmZjFjMDAzXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+      "Runtime": "30 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Roy Clarke",
+      "Actors": "Peter Sallis, Jane Freeman, Kathy Staff, Robert Fyfe",
+      "Plot": "Three old men from Yorkshire who have never grown up face the trials of their fellow town citizens and everyday life and stay young by reminiscing about the days of their youth and attempting feats not common to the elderly."
     },
     {
       "Title": "Summer of Rockets",
       "Year": "2019",
       "imdbID": "tt8001214",
       "Type": "series",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmY2NTE3YjYtZGQ3Zi00OTBmLWFmMzgtN2UwNmRkYjYwMWRjXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg"
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmY2NTE3YjYtZGQ3Zi00OTBmLWFmMzgtN2UwNmRkYjYwMWRjXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg",
+      "Runtime": "60 min",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Toby Stephens, Keeley Hawes, Lily Sacofsky, Linus Roache",
+      "Plot": "Cold war drama following a Russian Jewish inventor and his family living in Britain."
     },
     {
       "Title": "Saturday Night Live: Weekend Update Summer Edition",
       "Year": "2008–",
       "imdbID": "tt1217217",
       "Type": "series",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1ODI4ODQ5MF5BMl5BanBnXkFtZTcwNjU5Njg5MQ@@._V1_SX300.jpg"
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1ODI4ODQ5MF5BMl5BanBnXkFtZTcwNjU5Njg5MQ@@._V1_SX300.jpg",
+      "Runtime": "N/A",
+      "Genre": "Comedy, News",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kenan Thompson, Seth Meyers, Fred Armisen, Bill Hader",
+      "Plot": "\"Saturday Night Live's\" satirical news segment expanded into primetime with three pre-election Thursday night specials."
     },
     {
       "Title": "The Long Hot Summer",
       "Year": "1985",
       "imdbID": "tt0089500",
       "Type": "series",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2NkMzJmNzEtZDEyZC00OWJkLTgxMjctYzIzMjAzNmQ1MDExXkEyXkFqcGdeQXVyMTk5MjAyMjM@._V1_SX300.jpg"
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2NkMzJmNzEtZDEyZC00OWJkLTgxMjctYzIzMjAzNmQ1MDExXkEyXkFqcGdeQXVyMTk5MjAyMjM@._V1_SX300.jpg",
+      "Runtime": "200 min",
+      "Genre": "Drama, Romance",
+      "Director": "Stuart Cooper",
+      "Writer": "William Faulkner (stories), Rita Mae Brown, Dennis Turner",
+      "Actors": "Don Johnson, Jason Robards, Judith Ivey, Cybill Shepherd",
+      "Plot": "A loner arrives in a small town only to be condemned for the sins of his father."
     },
     {
       "Title": "Summer Camp Island",
       "Year": "2018–",
       "imdbID": "tt8146760",
       "Type": "series",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZiYzQ5YjItZDQ3OC00Zjc4LWE2ZDgtYzFhYTA3MTY3MGVkXkEyXkFqcGdeQXVyODQzMjA3OTQ@._V1_SX300.jpg"
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZiYzQ5YjItZDQ3OC00Zjc4LWE2ZDgtYzFhYTA3MTY3MGVkXkEyXkFqcGdeQXVyODQzMjA3OTQ@._V1_SX300.jpg",
+      "Runtime": "N/A",
+      "Genre": "Animation, Short, Adventure, Comedy, Family, Fantasy",
+      "Director": "N/A",
+      "Writer": "Julia Pott",
+      "Actors": "Oona Laurence, Elliott Smith, Julia Pott, Sam Lavagnino",
+      "Plot": "Two best friends go to a magic sleep-away camp, where nothing is what it seems."
     }
   ]
 }
