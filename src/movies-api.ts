@@ -8,14 +8,13 @@ router.get('/', (_req, res) => {
     res.send(movies.Search);
 });
 
-// http://localhost:3000/search?type=${searchType}&request=${request}
 router.get('/search', (req, res) => {
     const { request, type } = req.query;
 
     res.send(movies.Search.filter(
-        (movie) => movie.Title.toLowerCase().search((request as string)?.toLowerCase()) !== -1 && // npm query-string
-        // (movie) => movie.Title.toLowerCase().includes((request as string).toLowerCase()) &&
-                   movie.Type === type));
+        (movie) => (movie.Title.toLowerCase().includes((request as string).toLowerCase()) &&
+                    movie.Type === type)));
+
 });
 
 router.get('/movie/:movieId', (req, res) => {
