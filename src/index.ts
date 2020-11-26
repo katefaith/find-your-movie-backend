@@ -1,11 +1,14 @@
-import express, { json } from 'express';
+import express, {
+    json
+} from 'express';
 import path from 'path';
 import cors from 'cors';
 
-import { router } from './movies-api';
+import { router } from './api/movies-api';
 
 const PORT = 3000;
-const app = express();
+
+export const app = express();
 
 app.use(cors());
 app.use('/static', express.static(path.join(__dirname, '/data')));
